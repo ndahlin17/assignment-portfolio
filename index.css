@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #9c9c9c;
+    background-color: #c0c0c0;
     line-height: 1.6;
     text-align: center;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 .main-info {
-    background: #1834d1;
+    background: #7b3dee;
     color: #fff;
     padding: 20px;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 .lions-tigers-bears, .intro, .getting-to-know, .first-website, .fun-fact {
-    background: #f38f4c;
+    background: #5b89df;
     padding: 15px;
     margin-bottom: 10px;
 }
